@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "express": "^4.19.2",
+    "hbs": "^4.2.0",
+    "mongoose": "^8.6.0",
+    "nodemon": "^3.1.4"
+  },
+  "name": "login_form_2",
+  "version": "1.0.0",
+  "description": "This is a simple api-server login form",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Vaibhav Kottari",
+  "license": "ISC"
+}
